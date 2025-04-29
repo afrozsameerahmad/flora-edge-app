@@ -1,11 +1,8 @@
-__pycache__/
-*.pyc
-*.pkl
-*.csv
-*.zip
-*.h5
-*.xlsx
+myenv/
 venv/
-myenv/
+.env/
+*.pyc
+__pycache__/
 .ipynb_checkpoints/
-myenv/
+.DS_Store
+Thumbs.db

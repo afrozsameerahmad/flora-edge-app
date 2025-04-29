@@ -1,11 +1,10 @@
-venv/
-env/
-myenv/
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
-*.csv
-*.xlsx
 *.pkl
+*.csv
 *.zip
 *.h5
+*.xlsx
+venv/
+myenv/
+.ipynb_checkpoints/
